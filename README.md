@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharan-karnakanti
-- 👀 I’m interested in Dedvelopment & solving problems!
+- 👀 I’m interested in Development & solving problems!
 - 🌱 I’m currently learning Java!
 - 💞️ I’m looking to collaborate on any java related Projects...
 - 📫 You can reach me through my email:-"sharankumar1132002@gmail.com"
